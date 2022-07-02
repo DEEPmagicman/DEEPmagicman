@@ -33,7 +33,7 @@
 -->
 ---
 
-### Connect with me:
+### Meanwhile, connect with me:
 <a href="https://twitter.com/Magicman_Deep">
 <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
