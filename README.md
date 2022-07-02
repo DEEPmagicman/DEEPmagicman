@@ -8,7 +8,9 @@
       - 🤔 Update this soon..
     </td>
     <td height="200" width="400">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPmagicman&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+      </a>
     </td>
   </tr>
 </table>
@@ -16,7 +18,9 @@
 ---
 
 <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
  <img src="https://activity-graph.herokuapp.com/graph?username=DEEPmagicman&theme=redical">
+    </a>
 </p>
 
 ![Deep's github stats](https://github-readme-stats.vercel.app/api?username=DEEPmagicman&count_private=true&theme=tokyonight&hide_border=true&show_icons=true)
