@@ -1,7 +1,10 @@
 ### Hello there, 👋
 
 ---
+ - 🤔 Update this soon..
 
+
+<!--
 <table>
   <tr>
     <td>
@@ -27,6 +30,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPmagicman&layout=compact&theme=tokyonight&hide_border=true&show_icons=true)
 
 
+-->
 ---
 
 ### Connect with me:
@@ -45,7 +49,6 @@
 <a href="https://www.quora.com/profile/Deep-Gandhi-38">
 <img align="left" alt="Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quora.svg" />
 </a>
-
 
 <!--
 <p align="center"><b>Visitors Count</b></p>
