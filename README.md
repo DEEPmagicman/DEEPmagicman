@@ -3,8 +3,8 @@
 ---
 
 <table>
-  <tr style="border-style: dotted;">
-    <td style="border-style: dotted;">
+  <tr>
+    <td>
       - 🤔 Update this soon..
     </td>
     <td height="200" width="400">
