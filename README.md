@@ -1,71 +1,27 @@
-### Hello there, 👋
+# 💫 About Me:
+🌱 I’m currently learning NodeJs<br><br>💬 Ask me about iOS, Mobile Application Development<br><br>📫 Reach me on my Gmail: deepgandhi@gmail.com<br><br>📫 Reach me on my LinkedIn: https://www.linkedin.com/in/deep-gandhi-b37572170
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deep-gandhi-b37572170) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8351061) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Magicman_Deep) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DEEPmagicman&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DEEPmagicman&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPmagicman&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=Magicman_Deep)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
- - 🤔 Update this soon..
+[![](https://visitcount.itsvg.in/api?id=DEEPmagicman&icon=3&color=1)](https://visitcount.itsvg.in)
 
-
-<!--
-<table>
-  <tr>
-    <td>
-      - 🤔 Update this soon..
-    </td>
-    <td height="200" width="400">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEEPmagicman&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://activity-graph.herokuapp.com/graph?username=DEEPmagicman&theme=redical">
-    </a>
-</p>
-
-![Deep's github stats](https://github-readme-stats.vercel.app/api?username=DEEPmagicman&count_private=true&theme=tokyonight&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPmagicman&layout=compact&theme=tokyonight&hide_border=true&show_icons=true)
-
-
--->
----
-
-### Meanwhile, connect with me:
-<a href="https://twitter.com/Magicman_Deep">
-<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/deep-gandhi-b37572170/">
-<img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/magicman_deep/">
-<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://stackoverflow.com/users/8351061/deep-gandhi">
-<img align="left" alt="Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />
-</a>
-<a href="https://www.quora.com/profile/Deep-Gandhi-38">
-<img align="left" alt="Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quora.svg" />
-</a>
-
-<!--
-<p align="center"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DEEPmagicman}/count.svg" /></p>
--->
-
-<!--
-**DEEPmagicman/DEEPmagicman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
