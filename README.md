@@ -5,7 +5,7 @@
 </p>
 
 ### 💫 About Me:
-🌱 I’m currently learning Database Design 🛠️ <br>💬 Ask me about iOS, Mobile Application Development📱<br>📫 Reach me on my <a href="mailto:deepgandhi999+github@gmail.com">Gmail</a>
+🌱 I’m currently learning Database Design 🛠️ <br>💬 Ask me about iOS, Mobile Application Development📱<br>📫 Reach me on my <a href="mailto:deepgandhi999+github@gmail.com">Gmail</a> <br>🎯 Contributing in open source.
 
 
 ### 💻 Tech Stack:
